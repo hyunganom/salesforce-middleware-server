@@ -60,29 +60,8 @@
 
 <img width="857" alt="헥사고날" src="https://github.com/hyunganom/salesforce-middleware-server/assets/104957944/4bd6479b-88a7-49e5-9522-acba7eda2501">
 
-```
-src/main/java
-├── com
-│   └── hyunganom
-│       └── salesforcemiddleware
-│           ├── adapters
-│           │   ├── in
-│           │   │   ├──web
-│	        │   │	└──message
-│		    │	└── out
-│           ├── core
-│           │   ├── domain
-│	        │   │	├──chatgpt
-│           │   │   └──salesforce
-│           │   └── service
-│           │   └── ports
-│	        │		├──in
-│	        │		└──out  
-│			├── utills
-│			└──	interceptors
-└── resources
-    └── application.yml
-```
+![스크린샷 2024-07-01 오전 8 10 27](https://github.com/hyunganom/salesforce-middleware-server/assets/104957944/1996408a-d6a5-441b-9871-66aac97689c7)
+
 
 - **adapters**: 외부 시스템과의 통신을 담당하는 어댑터
     - **in**: 입력 어댑터 (web, message 등)
