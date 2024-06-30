@@ -58,7 +58,7 @@
 
 </aside>
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/b66e7ba9-c26b-49f9-a7e4-1e279b9bef9e/7fba4092-262e-4113-a600-2b26dc97ea64/Untitled.png)
+<img width="857" alt="헥사고날" src="https://github.com/hyunganom/salesforce-middleware-server/assets/104957944/4bd6479b-88a7-49e5-9522-acba7eda2501">
 
 ```
 src/main/java
@@ -68,18 +68,18 @@ src/main/java
 │           ├── adapters
 │           │   ├── in
 │           │   │   ├──web
-│						│		│		└──message
-│						│		└── out
+│	        │   │	└──message
+│		    │	└── out
 │           ├── core
 │           │   ├── domain
-│						│		│		├──chatgpt
+│	        │   │	├──chatgpt
 │           │   │   └──salesforce
 │           │   └── service
 │           │   └── ports
-│						│				├──in
-│						│				└──out  
-│						├── utills
-│						└──	interceptors
+│	        │		├──in
+│	        │		└──out  
+│			├── utills
+│			└──	interceptors
 └── resources
     └── application.yml
 ```
@@ -109,7 +109,8 @@ src/main/java
 - RESTful API를 통해 외부 시스템과의 통신을 표준화.
 - API 보안을 위해 OAuth2와 JWT 토큰 인증 방식 사용.
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/b66e7ba9-c26b-49f9-a7e4-1e279b9bef9e/6e9b7dd1-3b45-473f-a0df-9c06c2344ff0/Untitled.png)
+
+![Untitled](https://github.com/hyunganom/salesforce-middleware-server/assets/104957944/eb6a5cde-fec6-42f7-b7a6-0dc234388a9c)
 
 ## **프로젝트 학습 및 개선 사항**
 
