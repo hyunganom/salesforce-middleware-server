@@ -92,6 +92,12 @@
 ![Untitled](https://github.com/hyunganom/salesforce-middleware-server/assets/104957944/eb6a5cde-fec6-42f7-b7a6-0dc234388a9c)
 
 ## **Salesforce LWC 화면**
+Salesforce LWC(Lightning Web Components)를 사용하여 UX/UI를 구성하였습니다. 이 컴포넌트는 사용자가 ChatGPT와 채팅을 주고받을 수 있는 인터페이스를 제공합니다.
+
+- LWC 컴포넌트: 사용자 경험(UX)과 사용자 인터페이스(UI)는 Salesforce LWC로 구현되었으며, ChatGPT와의 실시간 채팅 기능을 제공합니다.
+- 사용자가 메시지를 입력하고 전송하면, 해당 메시지는 RabbitMQ를 통해 중계 서버로 전송됩니다.
+- 중계 서버는 메시지를 ChatGPT API로 전달하고, 응답을 다시 LWC 컴포넌트로 전송하여 사용자에게 표시합니다.
+- 이 프로세스를 통해 사용자와 ChatGPT 간의 원활한 실시간 대화를 지원합니다.
 
 ## **프로젝트 학습 및 개선 사항**
 
