@@ -88,6 +88,7 @@
 - RESTful API를 통해 외부 시스템과의 통신을 표준화.
 - API 보안을 위해 OAuth2와 JWT 토큰 인증 방식 사용.
 
+## **Salesforce LWC 화면**
 
 ![Untitled](https://github.com/hyunganom/salesforce-middleware-server/assets/104957944/eb6a5cde-fec6-42f7-b7a6-0dc234388a9c)
 
