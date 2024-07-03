@@ -91,7 +91,7 @@
 
 ![Untitled](https://github.com/hyunganom/salesforce-middleware-server/assets/104957944/eb6a5cde-fec6-42f7-b7a6-0dc234388a9c)
 
-## **Salesforce LWC 화면**
+## **UX/UI 화면**
 <aside>
 
     Salesforce LWC(Lightning Web Components)는 최신 웹 표준을 사용하여 개발되는 Salesforce의 프론트엔드 프레임워크입니다.
