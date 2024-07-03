@@ -93,7 +93,8 @@
 
 ## **Salesforce LWC 화면**
 <aside>
-💡  Salesforce LWC(Lightning Web Components)는 최신 웹 표준을 사용하여 개발되는 Salesforce의 프론트엔드 프레임워크입니다.
+
+    Salesforce LWC(Lightning Web Components)는 최신 웹 표준을 사용하여 개발되는 Salesforce의 프론트엔드 프레임워크입니다.
     
     LWC는 HTML, CSS, JavaScript와 같은 웹 표준 기술을 사용합니다. LWC를 사용하여 UX/UI를 구성하였습니다.
     
