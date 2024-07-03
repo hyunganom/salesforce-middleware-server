@@ -98,6 +98,7 @@ Salesforce LWC(Lightning Web Components)를 사용하여 UX/UI를 구성하였�
 - 사용자가 메시지를 입력하고 전송하면, 해당 메시지는 RabbitMQ를 통해 중계 서버로 전송됩니다.
 - 중계 서버는 메시지를 ChatGPT API로 전달하고, 응답을 다시 LWC 컴포넌트로 전송하여 사용자에게 표시합니다.
 - 이 프로세스를 통해 사용자와 ChatGPT 간의 원활한 실시간 대화를 지원합니다.
+![스크린샷 2024-07-03 오전 9 34 40](https://github.com/hyunganom/salesforce-middleware-server/assets/104957944/a427f208-55b1-4c74-bb68-ae671df8ca07)
 
 ## **프로젝트 학습 및 개선 사항**
 
