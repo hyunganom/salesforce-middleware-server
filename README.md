@@ -94,10 +94,11 @@
 ## **Salesforce LWC 화면**
 <aside>
 💡  Salesforce LWC(Lightning Web Components)는 최신 웹 표준을 사용하여 개발되는 Salesforce의 프론트엔드 프레임워크입니다.
+    
     LWC는 HTML, CSS, JavaScript와 같은 웹 표준 기술을 사용합니다. LWC를 사용하여 UX/UI를 구성하였습니다.
+    
     이 컴포넌트는 사용자가 ChatGPT와 채팅을 주고받을 수 있는 인터페이스를 제공합니다.
     
-
 </aside>
 
 1.	ChatGPT로 사용자의 메시지를 전송하고, 주기적으로 메시지를 새로고침하여 실시간 채팅을 구현.
