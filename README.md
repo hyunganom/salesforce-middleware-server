@@ -108,6 +108,9 @@
 
 ![스크린샷 2024-07-03 오전 9 34 40](https://github.com/hyunganom/salesforce-middleware-server/assets/104957944/a427f208-55b1-4c74-bb68-ae671df8ca07)
 
+세일즈포스의 구성요소와 소개글의 깃허브 주소는 다음과 같습니다.
+https://github.com/hyunganom/SalesforceChatGPTView.git
+
 ## **프로젝트 학습 및 개선 사항**
 
 - **학습 내용**:
