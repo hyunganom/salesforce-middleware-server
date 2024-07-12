@@ -6,3 +6,5 @@ sudo docker rmi rheonik/salesforce-middleware:1.0
 sudo docker pull rheonik/salesforce-middleware:1.0
 
 docker run -d -p 8889:8889 --name lunch rheonik/salesforce-middleware:1.0
+
+docker rmi -f $(docker images -f "dangling=true" -q) || true
