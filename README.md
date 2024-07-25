@@ -40,7 +40,7 @@
 - **메시지 큐**: RabbitMQ
 - **인증 및 보안**: JWT OAuth 2.0
 - **컨테이너화**: Docker
-- **클라우드 환경**: AWS
+- **클라우드**: AWS
 - **운영 체제**:
     - **로컬 실행 환경**: Mac OS (Sonoma 14.1)
     - **클라우드 설정**: AWS Linux OS
@@ -89,7 +89,7 @@
 - API 보안을 위해 OAuth2와 JWT 토큰 인증 방식 사용.
 
 
-![Untitled](https://github.com/hyunganom/salesforce-middleware-server/assets/104957944/eb6a5cde-fec6-42f7-b7a6-0dc234388a9c)
+![스크린샷 2024-07-25 오전 10 57 23](https://github.com/user-attachments/assets/431fb8cd-3fee-4302-a218-2a52dc55f309)
 
 ## **UX/UI 화면**
 <aside>
@@ -122,5 +122,4 @@ https://github.com/hyunganom/SalesforceChatGPTView.git
     - **RabbitMQ 모니터링 추가**: RabbitMQ의 상태와 성능을 실시간으로 모니터링하여 안정성을 더욱 강화.
     - **질문과 GPT 응답 저장**: 질문과 GPT의 응답을 로컬 DB에 저장하여 데이터의 추적 및 분석 가능하게 함.
     - **AI 모델의 성능 개선**: ChatGPT API와의 통신 최적화 및 모델 성능 향상.
-    - **추가 외부 시스템 통합**: 더 많은 외부 시스템과의 연동을 통해 확장성 강화.
     - **보안 강화**: 보안 정책 및 절차를 지속적으로 업데이트하고 강화.
