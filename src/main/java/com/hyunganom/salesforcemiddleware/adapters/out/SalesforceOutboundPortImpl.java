@@ -35,7 +35,7 @@ public class SalesforceOutboundPortImpl implements SalesforceOutboundPort {
         log.debug("sendChat(newChat={})", sendChat);
 
         SalesforceLoginResult salesforceLoginResult = salesforceAuthenticationPort.loginToSalesforce();
-
+        log.debug("salesforceLoginResult={}", salesforceLoginResult);
         URIBuilder builder = new URIBuilder(salesforceLoginResult.getInstanceUrl());
         builder.setPath(QUERY_PATH);
 

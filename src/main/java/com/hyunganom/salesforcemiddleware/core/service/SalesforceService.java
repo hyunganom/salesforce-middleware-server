@@ -1,4 +1,3 @@
-// core/service/OutboundService.java
 package com.hyunganom.salesforcemiddleware.core.service;
 
 import com.fasterxml.jackson.databind.JsonNode;
